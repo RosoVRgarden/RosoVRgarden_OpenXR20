@@ -1,4 +1,4 @@
-# Roso_XR
+# RosoVRgarden_OpenXR
 
 OpenXR template for Oculus Quest and Vive Pro that uses locomotion (device based) and interactables (cabinet + hinges).
 
