@@ -1,9 +1,12 @@
 # RosoVRgarden_OpenXR
 
-OpenXR template for Oculus Quest and Vive Pro that uses locomotion (device based) and interactables (cabinet + hinges).
+OpenXR template that works on both the Oculus Quest and the HTC Vive Pro. It uses locomotion (action based), direct interactables, ray interactables and numerous objects (cabinet, door) that use events to change sound and materials. 
 
 Requires: Unity 2020.3 with Interactive Toolkit
+Issues: none
+Future: more programming examples
 
-Based on C-Through tutorial (https://github.com/C-Through/XR-OpenXR)
+Thanks to C-Through for his OpenXR tutorial (https://github.com/C-Through/XR-OpenXR) 
+and ValemVR for his cabinet tutorial
 
-Thanks to ValemVR for his cabinet tutorial
+ 
