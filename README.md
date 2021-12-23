@@ -4,6 +4,6 @@ OpenXR template for Oculus Quest and Vive Pro that uses locomotion (device based
 
 Requires: Unity 2020.3 with Interactive Toolkit
 
-Based on C-Through tutorial, see the original at https://github.com/C-Through/XR-OpenXR
+Based on C-Through tutorial (https://github.com/C-Through/XR-OpenXR)
 
-Thanks to ValemVR for his furniture tutorials
+Thanks to ValemVR for his cabinet tutorial
