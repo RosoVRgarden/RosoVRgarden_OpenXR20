@@ -184,7 +184,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 2
   m_SelectMode: 0
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
@@ -515,7 +515,7 @@ GameObject:
   - component: {fileID: 218885385}
   - component: {fileID: 218885390}
   - component: {fileID: 218885391}
-  m_Layer: 8
+  m_Layer: 6
   m_Name: Lever
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -669,7 +669,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 2
   m_SelectMode: 0
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
@@ -775,7 +775,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 284452901}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Camera Offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1292,7 +1292,7 @@ GameObject:
   - component: {fileID: 851242768}
   - component: {fileID: 851242767}
   - component: {fileID: 851242774}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: XR Origin
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -1555,7 +1555,7 @@ GameObject:
   - component: {fileID: 950629907}
   - component: {fileID: 950629906}
   - component: {fileID: 950629905}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -1791,7 +1791,7 @@ GameObject:
   - component: {fileID: 1122966337}
   - component: {fileID: 1122966342}
   - component: {fileID: 1122966341}
-  m_Layer: 8
+  m_Layer: 6
   m_Name: Interface
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1873,7 +1873,7 @@ GameObject:
   - component: {fileID: 1186226912}
   - component: {fileID: 1186226911}
   - component: {fileID: 1186226910}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: RightHand Controller
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1924,7 +1924,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 4294967295
+    m_Bits: 2
   m_AttachTransform: {fileID: 0}
   m_KeepSelectedTargetValid: 1
   m_StartingSelectedInteractable: {fileID: 0}
@@ -2437,7 +2437,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 4
   m_SelectMode: 0
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
@@ -2591,7 +2591,7 @@ GameObject:
   - component: {fileID: 1648599622}
   - component: {fileID: 1648599621}
   - component: {fileID: 1648599620}
-  m_Layer: 8
+  m_Layer: 6
   m_Name: Sonic Cylinder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2790,7 +2790,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 6
   m_SelectMode: 0
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
@@ -2957,7 +2957,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 2
   m_SelectMode: 0
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
@@ -3222,7 +3222,7 @@ GameObject:
   - component: {fileID: 1739087431}
   - component: {fileID: 1739087430}
   - component: {fileID: 1739087429}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LeftHand Controller
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3467,7 +3467,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 4294967295
+    m_Bits: 4
   m_AttachTransform: {fileID: 0}
   m_KeepSelectedTargetValid: 1
   m_StartingSelectedInteractable: {fileID: 0}
@@ -3847,7 +3847,7 @@ GameObject:
   - component: {fileID: 1780540679}
   - component: {fileID: 1780540680}
   - component: {fileID: 1780540681}
-  m_Layer: 8
+  m_Layer: 6
   m_Name: Sonic Sphere Hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3948,7 +3948,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 2
   m_SelectMode: 0
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
@@ -4237,22 +4237,22 @@ PrefabInstance:
     - target: {fileID: 6199973836754003501, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973837021075095, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973837208729506, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973837341537080, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973837475924900, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
@@ -4317,57 +4317,57 @@ PrefabInstance:
     - target: {fileID: 6199973837475924903, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973837699453559, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973837805520035, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973837923265652, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973838152829799, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973838280428216, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973838291711172, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973838308310141, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973838657566057, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973838674771503, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6199973838674960982, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d676ea4becfb05c4986528869d595625, type: 3}
@@ -4392,7 +4392,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2102345875}
-  m_Layer: 8
+  m_Layer: 6
   m_Name: Direct Interaction
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4492,7 +4492,7 @@ GameObject:
   - component: {fileID: 1704961730437652075}
   - component: {fileID: 7861787338725930664}
   - component: {fileID: 8208939771895583962}
-  m_Layer: 8
+  m_Layer: 6
   m_Name: Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4514,7 +4514,7 @@ GameObject:
   - component: {fileID: 3816273839474814824}
   - component: {fileID: 3816273839474814822}
   - component: {fileID: 3816273839474814823}
-  m_Layer: 8
+  m_Layer: 6
   m_Name: Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4575,7 +4575,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 2
   m_SelectMode: 0
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
@@ -4767,7 +4767,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4790187990821389427}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door_SeprateKnob
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4786,7 +4786,7 @@ GameObject:
   - component: {fileID: 2083645527642878975}
   - component: {fileID: 2173486279089549870}
   - component: {fileID: 5583608373930046539}
-  m_Layer: 8
+  m_Layer: 6
   m_Name: DoorKnob
   m_TagString: Untagged
   m_Icon: {fileID: 0}
