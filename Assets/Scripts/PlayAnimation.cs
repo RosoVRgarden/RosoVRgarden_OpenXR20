@@ -11,7 +11,7 @@ public class PlayAnimation : MonoBehaviour
         if (other.CompareTag("Player")) { 
 
             myAnimationController.SetBool("jump", true);
-            print("jump...");
+            //print("jump...");
         }
     }
 
@@ -20,7 +20,7 @@ public class PlayAnimation : MonoBehaviour
         if (other.CompareTag("Player")){
 
             myAnimationController.SetBool("jump", false);
-            print("stop jumping...");
+            //print("stop jumping...");
         }
     }
    
