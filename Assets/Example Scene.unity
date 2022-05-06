@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.096983366, g: 0.14027768, b: 0.20771325, a: 1}
+  m_IndirectSpecularColor: {r: 0.09701417, g: 0.14021364, b: 0.20771632, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -141,7 +141,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.5000003, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -3.152475, y: 0.41599998, z: 1.8445818}
+  m_ConnectedAnchor: {x: -3.152475, y: 0.41599998, z: 1.9915818}
   m_UseSpring: 1
   m_Spring:
     spring: 0
@@ -539,7 +539,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: -0.5, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0.06899971, y: 0.9984, z: 2.094}
+  m_ConnectedAnchor: {x: 0.68, y: 0.9984, z: 2.371}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -1005,7 +1005,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_SelectActionTrigger: 0
-  m_HideControllerOnSelect: 0
+  m_HideControllerOnSelect: 1
   m_AllowHoveredActivate: 0
   m_PlayAudioClipOnSelectEntered: 0
   m_AudioClipForOnSelectEntered: {fileID: 0}
@@ -1019,8 +1019,8 @@ MonoBehaviour:
   m_AudioClipForOnHoverExited: {fileID: 0}
   m_PlayAudioClipOnHoverCanceled: 0
   m_AudioClipForOnHoverCanceled: {fileID: 0}
-  m_PlayHapticsOnSelectEntered: 0
-  m_HapticSelectEnterIntensity: 0
+  m_PlayHapticsOnSelectEntered: 1
+  m_HapticSelectEnterIntensity: 0.25
   m_HapticSelectEnterDuration: 0
   m_PlayHapticsOnSelectExited: 0
   m_HapticSelectExitIntensity: 0
@@ -1626,13 +1626,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 922774572}
-  m_LocalRotation: {x: 0.3386658, y: -0.14614373, z: 0.05333645, w: 0.9279562}
+  m_LocalRotation: {x: 0.48124233, y: -0.13586216, z: 0.07579081, w: 0.8626721}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 40.1, y: -17.9, z: 0}
+  m_LocalEulerAnglesHint: {x: 58.31, y: -17.9, z: 0}
 --- !u!1 &1122966336
 GameObject:
   m_ObjectHideFlags: 0
@@ -2424,8 +2424,8 @@ ReflectionProbe:
   m_TimeSlicingMode: 0
   m_Resolution: 128
   m_UpdateFrequency: 0
-  m_BoxSize: {x: 10, y: 10, z: 10}
-  m_BoxOffset: {x: 0, y: 0, z: 0}
+  m_BoxSize: {x: 10, y: 2.3759706, z: 9.313861}
+  m_BoxOffset: {x: 0, y: -0.19513524, z: 0.34306955}
   m_NearClip: 0.3
   m_FarClip: 1000
   m_ShadowDistance: 100
@@ -3391,7 +3391,7 @@ ConfigurableJoint:
   m_Anchor: {x: 0, y: 0.99999994, z: 0}
   m_Axis: {x: 0, y: 0, z: -1}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -2.8836775, y: 0.9367114, z: 1.8290818}
+  m_ConnectedAnchor: {x: -2.8836775, y: 0.9367114, z: 1.9760818}
   serializedVersion: 2
   m_SecondaryAxis: {x: 0, y: 1, z: 0}
   m_XMotion: 1
@@ -4304,7 +4304,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.007097911, z: 0}
   m_Axis: {x: 0, y: 0, z: 1}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 1.78, y: -9.313226e-10, z: 1.6959021}
+  m_ConnectedAnchor: {x: 2.05, y: -9.313226e-10, z: 1.972902}
   m_UseSpring: 1
   m_Spring:
     spring: 0
