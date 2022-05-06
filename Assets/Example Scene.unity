@@ -520,7 +520,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 218885384}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.06899971, y: 1.1484, z: 2.131}
+  m_LocalPosition: {x: 0.68, y: 1.1484, z: 2.131}
   m_LocalScale: {x: 0.05, y: 0.3, z: 0.05}
   m_Children:
   - {fileID: 1122966337}
@@ -2674,8 +2674,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1643493269}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.6210856, y: -0.05474642, z: -3.375582}
-  m_LocalScale: {x: 0.05506204, y: 1.5864, z: 4.310178}
+  m_LocalPosition: {x: -6.75, y: 0.23, z: -3.62}
+  m_LocalScale: {x: 0.05506204, y: 1.5864, z: 6.102475}
   m_Children: []
   m_Father: {fileID: 1560920348}
   m_RootOrder: 0
@@ -2930,7 +2930,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1648599615}
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -1.52, y: 1.104, z: 2.08}
+  m_LocalPosition: {x: -1.19, y: 1.1, z: 2.08}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 2102345875}
@@ -3516,7 +3516,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1762951452}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.3910856, y: -0.03474641, z: 0.634418}
+  m_LocalPosition: {x: -2.1, y: -0.03474641, z: 0.84}
   m_LocalScale: {x: 2.98, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 440881755}
@@ -3538,6 +3538,7 @@ GameObject:
   - component: {fileID: 1780540679}
   - component: {fileID: 1780540681}
   - component: {fileID: 1780540680}
+  - component: {fileID: 1780540682}
   m_Layer: 6
   m_Name: Sonic Sphere Hover
   m_TagString: Untagged
@@ -3615,7 +3616,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1780540673}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.792, y: 1.1, z: 2.089}
+  m_LocalPosition: {x: -0.16, y: 1.1, z: 2.089}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 2102345875}
@@ -3886,6 +3887,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1780540682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1780540673}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aff9bb4ad92684723b7e3393baf50d45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 0}
 --- !u!1 &1865793779
 GameObject:
   m_ObjectHideFlags: 0
@@ -3963,7 +3977,7 @@ PrefabInstance:
     - target: {fileID: 6199973837475924900, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.9
+      value: 1.77
       objectReference: {fileID: 0}
     - target: {fileID: 6199973837475924900, guid: d676ea4becfb05c4986528869d595625,
         type: 3}
@@ -4098,7 +4112,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2102345874}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.037}
+  m_LocalPosition: {x: 0, y: 0, z: 0.24}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1985071287}
@@ -4441,7 +4455,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5274271747304070857}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.28, y: 0, z: 1.74}
+  m_LocalPosition: {x: 2.55, y: 0, z: 1.74}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 6945257333912659101}
