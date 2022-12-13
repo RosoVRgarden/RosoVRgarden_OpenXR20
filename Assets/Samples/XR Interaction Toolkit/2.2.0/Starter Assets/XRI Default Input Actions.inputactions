@@ -1502,7 +1502,7 @@
                     "name": "ColorChange",
                     "type": "Value",
                     "id": "1feb1e89-1594-47c1-a818-2e580746b9e8",
-                    "expectedControlType": "",
+                    "expectedControlType": "Axis",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -1512,7 +1512,7 @@
                 {
                     "name": "",
                     "id": "14475830-d05c-4997-a4bc-2fb8eb6083c9",
-                    "path": "<OculusTouchController>{RightHand}/gripPressed",
+                    "path": "<OculusTouchController>{RightHand}/trigger",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
