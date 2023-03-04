@@ -22,6 +22,10 @@
 # Visual Studio cache directory
 .vs/
 
+# Mac
+.DS_Store
+Assets/.DS_Store
+
 # Gradle cache directory
 .gradle/
 
