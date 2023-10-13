@@ -1,4 +1,4 @@
-# RosoVRgarden_OpenXR
+# RosoVRgarden_OpenXR20
 
 This OpenXR template is ready to use on the Oculus Quest and the HTC Vive Pro. It uses locomotion (action based), direct interactables, ray interactables and numerous objects (cabinet, door), presence and a lift.  
 
